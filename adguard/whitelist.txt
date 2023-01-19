@@ -20,4 +20,5 @@
 @@||api-partner.spotify.com^$important
 @@||dailymix-images.scdn.co^$important
 @@||www.cookielaw.org^$important
-
+@@||cdn.rosebikes.de^$important
+@@||app.usercentrics.eu^$important
