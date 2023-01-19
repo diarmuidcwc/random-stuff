@@ -19,4 +19,5 @@
 @@||pl.scdn.co^$important
 @@||api-partner.spotify.com^$important
 @@||dailymix-images.scdn.co^$important
+@@||www.cookielaw.org^$important
 
