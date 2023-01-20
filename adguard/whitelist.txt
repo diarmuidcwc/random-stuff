@@ -26,3 +26,6 @@
 @@||player.cnevids.com^$important
 @@||cdn.arstechnica.net^$important
 @@||cdn.mediavoice.com^$important
+@@||newyorker.com^$important
+@@||cdn.mantel.com^$important
+
