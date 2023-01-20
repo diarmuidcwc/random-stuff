@@ -22,3 +22,7 @@
 @@||www.cookielaw.org^$important
 @@||cdn.rosebikes.de^$important
 @@||app.usercentrics.eu^$important
+@@||s.w.org^$important
+@@||player.cnevids.com^$important
+@@||cdn.arstechnica.net^$important
+@@||cdn.mediavoice.com^$important
