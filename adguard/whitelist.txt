@@ -28,4 +28,9 @@
 @@||cdn.mediavoice.com^$important
 @@||newyorker.com^$important
 @@||cdn.mantel.com^$important
-
+@@||p.imgur.com^$important
+@@||ced.sascdn.com^$important
+@@||ced-ns.sascdn.com^$important
+@@||www.otherlife.co^$important
+@@||eurosportplayer.com^$important
+@@||eu3-prod-images.disco-api.com^$important
